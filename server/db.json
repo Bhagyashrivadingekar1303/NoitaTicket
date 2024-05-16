@@ -1,0 +1,287 @@
+{
+  "user": [
+    {
+      "userid": "1",
+      "userName": "admin",
+      "password": "1234",
+      "email": "abhi@gmail.com",
+      "role": "admin",
+      "phone": 123456754,
+      "id": "884e"
+    },
+    {
+      "userid": "2",
+      "userName": "ajinkya",
+      "password": "ajinkya123",
+      "email": "ajinkya@gmail.com",
+      "role": "user",
+      "phone": 23342343,
+      "id": "b6b5"
+    },
+    {
+      "userid": "3",
+      "userName": "ajit",
+      "password": "ajit123",
+      "email": "ajit@gmail.com",
+      "role": "user",
+      "phone": 216237217,
+      "id": "f0eb"
+    },
+    {
+      "userid": "4",
+      "userName": "ajay",
+      "password": "ajay123",
+      "email": "ajay@gmail.com",
+      "role": "techSupport",
+      "phone": 31657621,
+      "id": "fef0"
+    },
+    {
+      "userid": "5",
+      "userName": "arvind",
+      "password": "arvind123",
+      "email": "arvind@gmail.com",
+      "role": "techSupport",
+      "phone": 83657216,
+      "id": "6efe"
+    },
+    {
+      "userid": "6",
+      "userName": "mayuri",
+      "password": "mayuri123",
+      "email": "mayuri@gmail.com",
+      "role": "admin",
+      "phone": 123456754,
+      "id": "e8e0"
+    },
+    {
+      "userid": "7",
+      "userName": "ashwini",
+      "password": "ashwinia123",
+      "email": "ashwini@gmail.com",
+      "role": "user",
+      "phone": 23342343,
+      "id": "f80b"
+    },
+    {
+      "userid": "8",
+      "userName": "swapnil",
+      "password": "swapnil123",
+      "email": "swapnil@gmail.com",
+      "role": "user",
+      "phone": 216237217,
+      "id": "9494"
+    },
+    {
+      "userid": "9",
+      "userName": "rutuja",
+      "password": "rutuja123",
+      "email": "rutuja@gmail.com",
+      "role": "techSupport",
+      "phone": 31657621,
+      "id": "0b60"
+    },
+    {
+      "userid": "10",
+      "userName": "mayeshwari",
+      "password": "mayeshwari123",
+      "email": "mayeshwari@gmail.com",
+      "role": "techSupport",
+      "phone": 83657216,
+      "id": "1168"
+    }
+  ],
+  "tickets": [
+    {
+      "id": "1",
+      "createdBy": "2",
+      "title": "Issue 1",
+      "description": "Description of issue 1",
+      "status": "In progress",
+      "assignedTo": 1
+    },
+    {
+      "id": "2",
+      "createdBy": "1",
+      "title": "Issue 2",
+      "description": "Description of issue 2",
+      "status": "open",
+      "assignedTo": 0
+    },
+    {
+      "id": "3",
+      "createdBy": "3",
+      "title": "Issue 3",
+      "description": "Description of issue 3",
+      "status": "open",
+      "assignedTo": "0"
+    },
+    {
+      "id": "4",
+      "createdBy": "4",
+      "title": "Issue 4",
+      "description": "Description of issue 4",
+      "status": "In progress",
+      "assignedTo": "6"
+    },
+    {
+      "id": "5",
+      "createdBy": "2",
+      "title": "Issue 5",
+      "description": "Description of issue 5",
+      "status": "open",
+      "assignedTo": "0"
+    },
+    {
+      "id": "6",
+      "createdBy": "6",
+      "title": "Issue 6",
+      "description": "Description of issue 6",
+      "status": "In progress",
+      "assignedTo": "8"
+    },
+    {
+      "id": "7",
+      "createdBy": "7",
+      "title": "Issue 7",
+      "description": "Description of issue 7",
+      "status": "close",
+      "assignedTo": "0"
+    },
+    {
+      "id": "8",
+      "createdBy": "9",
+      "title": "Issue 8",
+      "description": "Description of issue 8",
+      "status": "open",
+      "assignedTo": "2"
+    },
+    {
+      "id": "9",
+      "createdBy": "10",
+      "title": "Issue 9",
+      "description": "Description of issue 9",
+      "status": "In progress",
+      "assignedTo": "3"
+    },
+    {
+      "id": "10",
+      "createdBy": "10",
+      "title": "Issue 10",
+      "description": "Description of issue 10",
+      "status": "close",
+      "assignedTo": "4"
+    },
+    {
+      "id": "0",
+      "createdBy": "8",
+      "title": "title",
+      "description": "askjdbk",
+      "status": "open",
+      "assignedTo": "2"
+    },
+    {
+      "id": "0",
+      "createdBy": "8",
+      "title": "",
+      "description": "",
+      "status": "",
+      "assignedTo": 0,
+      "file": ""
+    },
+    {
+      "id": "0",
+      "createdBy": "0",
+      "title": "",
+      "description": "",
+      "status": "",
+      "assignedTo": 0,
+      "file": ""
+    },
+    {
+      "id": "f3f3",
+      "userName": ""
+    },
+    {
+      "id": "5249",
+      "userName": ""
+    },
+    {
+      "id": "5b88"
+    },
+    {
+      "id": "30ec"
+    },
+    {
+      "id": "f0bc"
+    },
+    {
+      "id": "f853"
+    },
+    {
+      "id": "e3ba"
+    },
+    {
+      "id": "bcbc"
+    },
+    {
+      "id": "9440"
+    },
+    {
+      "id": "56f0"
+    },
+    {
+      "id": "18b7"
+    },
+    {
+      "id": "3a85"
+    },
+    {
+      "id": "5ef1"
+    },
+    {
+      "id": "fae2"
+    },
+    {
+      "id": "86ac"
+    },
+    {
+      "id": "1f71"
+    },
+    {
+      "id": "966a"
+    },
+    {
+      "id": "39d0"
+    },
+    {
+      "id": "c128"
+    },
+    {
+      "id": "3b20"
+    },
+    {
+      "id": "0f1f"
+    },
+    {
+      "id": "e97a"
+    },
+    {
+      "id": "fd15"
+    },
+    {
+      "id": "7b67"
+    },
+    {
+      "id": "54b3"
+    },
+    {
+      "id": "eaa5",
+      "userName": ""
+    },
+    {
+      "id": "696f",
+      "userName": ""
+    }
+  ]
+}
