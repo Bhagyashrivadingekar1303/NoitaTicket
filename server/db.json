@@ -1,96 +1,4 @@
 {
-  "user": [
-    {
-      "userid": "1",
-      "userName": "admin",
-      "password": "1234",
-      "email": "abhi@gmail.com",
-      "role": "admin",
-      "phone": 123456754,
-      "id": "884e"
-    },
-    {
-      "userid": "2",
-      "userName": "ajinkya",
-      "password": "ajinkya123",
-      "email": "ajinkya@gmail.com",
-      "role": "user",
-      "phone": 23342343,
-      "id": "b6b5"
-    },
-    {
-      "userid": "3",
-      "userName": "ajit",
-      "password": "ajit123",
-      "email": "ajit@gmail.com",
-      "role": "user",
-      "phone": 216237217,
-      "id": "f0eb"
-    },
-    {
-      "userid": "4",
-      "userName": "ajay",
-      "password": "ajay123",
-      "email": "ajay@gmail.com",
-      "role": "techSupport",
-      "phone": 31657621,
-      "id": "fef0"
-    },
-    {
-      "userid": "5",
-      "userName": "arvind",
-      "password": "arvind123",
-      "email": "arvind@gmail.com",
-      "role": "techSupport",
-      "phone": 83657216,
-      "id": "6efe"
-    },
-    {
-      "userid": "6",
-      "userName": "mayuri",
-      "password": "mayuri123",
-      "email": "mayuri@gmail.com",
-      "role": "admin",
-      "phone": 123456754,
-      "id": "e8e0"
-    },
-    {
-      "userid": "7",
-      "userName": "ashwini",
-      "password": "ashwinia123",
-      "email": "ashwini@gmail.com",
-      "role": "user",
-      "phone": 23342343,
-      "id": "f80b"
-    },
-    {
-      "userid": "8",
-      "userName": "swapnil",
-      "password": "swapnil123",
-      "email": "swapnil@gmail.com",
-      "role": "user",
-      "phone": 216237217,
-      "id": "9494"
-    },
-    {
-      "userid": "9",
-      "userName": "rutuja",
-      "password": "rutuja123",
-      "email": "rutuja@gmail.com",
-      "role": "techSupport",
-      "phone": 31657621,
-      "id": "0b60"
-    },
-    {
-      "userid": "10",
-      "userName": "mayeshwari",
-      "password": "mayeshwari123",
-      "email": "mayeshwari@gmail.com",
-      "role": "techSupport",
-      "phone": 83657216,
-      "id": "1168"
-    }
-  ],
   "tickets": [
     {
       "id": "1",
@@ -197,91 +105,98 @@
       "status": "",
       "assignedTo": 0,
       "file": ""
+    }
+  ],
+  "user": [
+    {
+      "userid": "1",
+      "userName": "user",
+      "password": "7777",
+      "email": "bhagu@gmail.com",
+      "role": "user",
+      "phone": 99999,
+      "id": "11"
     },
     {
-      "id": "f3f3",
-      "userName": ""
+      "userid": "2",
+      "userName": "Tanu",
+      "password": "9999",
+      "email": "tanua@gmail.com",
+      "role": "admin",
+      "phone": 99999,
+      "id": "22"
     },
     {
-      "id": "5249",
-      "userName": ""
+      "userid": "3",
+      "userName": "ajit",
+      "password": "ajit123",
+      "email": "ajit@gmail.com",
+      "role": "user",
+      "phone": 216237217,
+      "id": "f0eb"
     },
     {
-      "id": "5b88"
+      "userid": "4",
+      "userName": "ajay",
+      "password": "ajay123",
+      "email": "ajay@gmail.com",
+      "role": "techSupport",
+      "phone": 31657621,
+      "id": "fef0"
     },
     {
-      "id": "30ec"
+      "userid": "5",
+      "userName": "arvind",
+      "password": "arvind123",
+      "email": "arvind@gmail.com",
+      "role": "techSupport",
+      "phone": 83657216,
+      "id": "6efe"
     },
     {
-      "id": "f0bc"
+      "userid": "6",
+      "userName": "mayuri",
+      "password": "mayuri123",
+      "email": "mayuri@gmail.com",
+      "role": "admin",
+      "phone": 123456754,
+      "id": "e8e0"
     },
     {
-      "id": "f853"
+      "userid": "7",
+      "userName": "ashwini",
+      "password": "ashwinia123",
+      "email": "ashwini@gmail.com",
+      "role": "user",
+      "phone": 23342343,
+      "id": "f80b"
     },
     {
-      "id": "e3ba"
+      "userid": "8",
+      "userName": "swapnil",
+      "password": "swapnil123",
+      "email": "swapnil@gmail.com",
+      "role": "user",
+      "phone": 216237217,
+      "id": "9494"
     },
     {
-      "id": "bcbc"
+      "userid": "9",
+      "userName": "rutuja",
+      "password": "rutuja123",
+      "email": "rutuja@gmail.com",
+      "role": "techSupport",
+      "phone": 31657621,
+      "id": "0b60"
     },
     {
-      "id": "9440"
-    },
-    {
-      "id": "56f0"
-    },
-    {
-      "id": "18b7"
-    },
-    {
-      "id": "3a85"
-    },
-    {
-      "id": "5ef1"
-    },
-    {
-      "id": "fae2"
-    },
-    {
-      "id": "86ac"
-    },
-    {
-      "id": "1f71"
-    },
-    {
-      "id": "966a"
-    },
-    {
-      "id": "39d0"
-    },
-    {
-      "id": "c128"
-    },
-    {
-      "id": "3b20"
-    },
-    {
-      "id": "0f1f"
-    },
-    {
-      "id": "e97a"
-    },
-    {
-      "id": "fd15"
-    },
-    {
-      "id": "7b67"
-    },
-    {
-      "id": "54b3"
-    },
-    {
-      "id": "eaa5",
-      "userName": ""
-    },
-    {
-      "id": "696f",
-      "userName": ""
+      "userid": "10",
+      "userName": "mayeshwari",
+      "password": "mayeshwari123",
+      "email": "mayeshwari@gmail.com",
+      "role": "techSupport",
+      "phone": 83657216,
+      "id": "1168"
     }
   ]
 }
